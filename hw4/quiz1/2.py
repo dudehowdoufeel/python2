@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 def unique_number(numbers):
     count_dict = {}
     

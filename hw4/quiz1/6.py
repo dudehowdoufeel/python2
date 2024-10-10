@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 def calc(a, b, n):
     return (n*(2*a+(n-1)*b)) // 2
 

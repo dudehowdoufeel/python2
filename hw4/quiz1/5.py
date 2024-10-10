@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 def rail_fence_cipher(a, group_size):
     return ''.join(a[i::group_size] for i in range(group_size))
 

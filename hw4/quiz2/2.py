@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 def rotation(a):
     if not a:
         return a

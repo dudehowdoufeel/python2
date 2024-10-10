@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 def update(a, b):
     with open(a, 'r') as infile, open(b, 'w') as outfile:
         for line in infile:

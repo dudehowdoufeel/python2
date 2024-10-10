@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 def translator(word):
     vowels = 'aeiou'
     
