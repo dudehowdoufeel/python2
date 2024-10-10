@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def translator(word):
     vowels = 'aeiou'
     
@@ -14,3 +15,4 @@ def translate_sentence(a):
 
 a = input()
 print(translate_sentence(a))
+

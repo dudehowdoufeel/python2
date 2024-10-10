@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def find_strings(L, pattern):
     pattern_dict = {i: char for i, char in enumerate(pattern) if char != '*'}
     matching = []
@@ -18,3 +19,4 @@ L = ['aabaabac', 'cabaabca', 'aaabbcba', 'aabacbab', 'acababba']
 a = input("enter your pattern and * for unknown chars): ")
 results = find_strings(L, a)
 print(results)
+

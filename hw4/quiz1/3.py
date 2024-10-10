@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def find_strings(L, pattern):
     pattern_dict = {i: char for i, char in enumerate(pattern) if char != '*'}
     matching = []
