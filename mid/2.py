@@ -89,8 +89,3 @@ def main():
 
     inverse_button = tk.Button(window, text="inverse Matrix", command=calculate_inverse, font=("Times New Roman", 14), width=20, height=2)
     inverse_button.pack(pady=10)
-
-    window.mainloop()
-
-if __name__ == "__main__":
-    main()
