@@ -62,7 +62,7 @@ print(recent_years)
 cleaned_data_path = r"C:\Users\ASUS\Desktop\python2\hw9\cleanedNetflix_data.csv"
 df.to_csv(cleaned_data_path, index=False)
 print(f"\nCleaned data saved to {cleaned_data_path}")
-# Создание резюме
+
 summary = f"""
 The most popular genre on Netflix is **'{most_common_genre}'**, which shows how much people love this type of content.
 
@@ -72,7 +72,7 @@ In the last 10 years, Netflix has been making more and more movies and TV shows.
 It's cool to see how Netflix is growing and giving us so much new content to enjoy!
 """
 
-# Сохранение резюме в текстовый файл
+
 summary_path = r"C:\Users\ASUS\Desktop\python2\hw9\summary2.txt"
 with open(summary_path, "w", encoding="utf-8") as file:
     file.write(summary)
