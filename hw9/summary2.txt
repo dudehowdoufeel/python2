@@ -1,0 +1,17 @@
+
+The most popular genre on Netflix is **'International Movies'**, which shows how much people love this type of content.
+
+In the last 10 years, Netflix has been making more and more movies and TV shows. Here's how many were released each year recently:
+release_year
+2012     222
+2013     270
+2014     333
+2015     516
+2016     838
+2017     966
+2018    1038
+2019     913
+2020     852
+2021     383
+
+It's cool to see how Netflix is growing and giving us so much new content to enjoy!
