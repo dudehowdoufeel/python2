@@ -50,7 +50,7 @@ plt.savefig(chart_path)
 plt.show()
 print(f"\nChart saved to {chart_path}")
 
-#samyi popularnyi zhar
+#samyi popularnyi zhanr
 most_common_genre = most_common_genres.idxmax()
 print(f"\nThe most frequent genre in the dataset is: {most_common_genre}")
 
