@@ -1,4 +1,4 @@
-# Math Calculator
+# Linear Calculator
 
 This project is a Python-based GUI application that provides tools for solving mathematical problems, including conic classification, linear algebra operations, polynomial root finding, eigenvalue/eigenvector computation, and vector projections. The program is implemented using `Tkinter` for the graphical interface and includes error handling to ensure user-friendly functionality.
 
